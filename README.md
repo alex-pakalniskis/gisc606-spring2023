@@ -13,18 +13,18 @@ Upon successful completion of the course, the student will be able to:
 | Focus | Objective |
 | --- | --- |
 | Technical | Identify and assess relationships between geospatial technologies. | 
-| Technical |  Comprehend theory and the application of geospatial technologies. |
-| Technical | Develop technical literacy through hands-on training in geospatial technologies and their application. | 
-| Technical | Integrate primary and secondary data into GIS. | 
-| Technical |  Perform various spatial analysis procedures. | 
-| Technical | Acquire theoretical and practical knowledge of remote sensing satellites and techniques. |
-| Technical |  Describe types and sources of satellites remote sensing systems, and multidisciplinary concepts of both photography and imagery analysis. |
-| Technical |  Demonstrate an appreciation of the role of remote sensing in geospatial science. |
-| Technical |  Integrate remotely sensed data with other geospatial techniques such as GIS |
+|  |  Comprehend theory and the application of geospatial technologies. |
+|  | Develop technical literacy through hands-on training in geospatial technologies and their application. | 
+|  | Integrate primary and secondary data into GIS. | 
+|  |  Perform various spatial analysis procedures. | 
+|  | Acquire theoretical and practical knowledge of remote sensing satellites and techniques. |
+|  |  Describe types and sources of satellites remote sensing systems, and multidisciplinary concepts of both photography and imagery analysis. |
+|  |  Demonstrate an appreciation of the role of remote sensing in geospatial science. |
+|  |  Integrate remotely sensed data with other geospatial techniques such as GIS |
 | Analytical | Evaluate methods and approaches used to address a variety of GIScientific issues. |
-| Analytical | Examine a spatial question and analyze geospatial data using GIS tools and technologies. |
-| Analytical | Perform analyses using remote sensing and image analysis techniques. |
-| Analytical | Assess both the value and limitations of remotely sensed data for a variety of applications. |
+|  | Examine a spatial question and analyze geospatial data using GIS tools and technologies. |
+|  | Perform analyses using remote sensing and image analysis techniques. |
+|  | Assess both the value and limitations of remotely sensed data for a variety of applications. |
 | Business | Explain and evaluate the importance of professional ethics and rules of conduct. |
 | Interpersonal | Develop and apply oral and written communication skills. |
 
