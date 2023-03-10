@@ -1,4 +1,4 @@
-GISC 606 - Applied Remote Sensing: Spring 2023
+Spring 2023
 
 Standard Course Outline prepared by Drs. S. Wechsler, C. Lee and V. Del Casino for California State University, Long Beach College of Liberal Arts, Department of Geography. Adapted for web (and slightly modified) by Alex Pakalniskis.
 
