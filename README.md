@@ -1,12 +1,27 @@
-# gisc606-spring2023
+# GISC 606 - Applied Remote Sensing
 
-## Overview
+## Justification
+Spatial information technologies including remote sensing are evolving rapidly and are being utilized in a wide variety of areas. This course focuses on analytical approaches within remote sensing and GIS. The course culminates in combining these technical and analytical skills with critical thinking and interpersonal communication through the development and presentation of a research project. The course contributes to the deveopment of competencies that are essential to success in the geospatial workforce.
 
-**GISC 606 - Applied Remote Sensing**
+## Course Objectives and Measurable Outcomes
+Upon successful completion of the course, the student will be able to:
 
-Principles and concepts of remote sensing and digital image processing are presented and applied. Students extract information from satellite and other data sources, focusing on enhancement and extraction techniques within the visible and near-infrared portions of the electromagnetic spectrum.
+| Technical |
+| --- | 
+| Identify and assess relationships between geospatial technologies. | 
+| Comprehend theory and the application of geospatial technologies. |
+| Develop technical literacy through hands-on training in geospatial technologies and their application. | 
+| Integrate primary and secondary data into GIS. | 
+| Perform various spatial analysis procedures. | 
+| Acquire theoretical and practical knowledge of remote sensing satellites and techniques. |
+| Describe types and sources of satellites remote sensing systems, and multidisciplinary concepts of both photography and imagery analysis. |
+| Demonstrate an appreciation of the role of remote sensing in geospatial science. |
+| Integrate remotely sensed data with other geospatial techniques such as GIS |
 
-Letter grade only (A-F). (2 hours lecture, 2 hours lab). Repeatable up to 4 units.
+
+
+
+
 
 ## User guide
 Check the Markdown file associated with the class date of interest for relevant instructions and learning resources.
