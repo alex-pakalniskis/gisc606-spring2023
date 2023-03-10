@@ -1,6 +1,7 @@
 title: GISC 606 - Applied Remote Sensing
 github:
   is_project_page: false
-remote_theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "dark"
 plugins:
 - jekyll-remote-theme
