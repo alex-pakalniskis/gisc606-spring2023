@@ -1,9 +1,11 @@
-# GISC 606 - Applied Remote Sensing Syllabus
+# GISC 606 - Applied Remote Sensing
 
-Lecturer: [Alex Pakalniskis](https://alex-pakalniskis.github.io/)
+Spring 2023
+
+Standard Course Outline prepared by Drs. S. Wechsler, C. Lee and V. Del Casino for California State University, Long Beach College of Liberal Arts, Department of Geography. Adapted for web (and slightly modified) by Alex Pakalniskis.
 
 ## Justification
-Spatial information technologies including remote sensing are evolving rapidly and are being utilized in a wide variety of areas. This course focuses on analytical approaches within remote sensing and GIS. The course culminates in combining these technical and analytical skills with critical thinking and interpersonal communication through the development and presentation of a research project. The course contributes to the deveopment of competencies that are essential to success in the geospatial workforce.
+Spatial information technologies including remote sensing are evolving rapidly and are being utilized in a wide variety of areas. This course focuses on analytical approaches within remote sensing and GIS. The course culminates in combining these technical and analytical skills with critical thinking and interpersonal communication through the development and presentation of a research project. The course contributes to the development of competencies that are essential to success in the geospatial workforce.
 
 ## Course Objectives and Measurable Outcomes
 Upon successful completion of the course, the student will be able to:
@@ -37,8 +39,16 @@ Computer Laboratory Exercises
 
 ## Methods of Assessment
 Computer Laboratory Exercises
+* The purpose of these exercises is to assess the students' ability to synthesize and evaluate the material presented in lecture and applied in practice laboratory assignments in order to combine multiple techniques in order to answer a spatial problem.
+* The instructor assess the completeness of each student's lab assignments, in-class assignments, and term projects in both qualitative and quantitative ways.
+* A minimum of 5 computer lab exercises will be assigned. No individual lab assignment shall be worth more than one-third of the final course grade.
 
 Project
+* The instructor will require students to demonstrate mastery of remote sensing concepts and skills by developing a project that applies remote sensing techniques to address a spatial problem. 
+* The instructor will assess the project in terms of its creativeness, appropriateness of themes, data collection and preparation, methodology, skill, and oral and written communication of results to evaluate whether the student successfully demonstrates practical application of the topics learned. 
+* The final project shall consist of a written and oral submission. 
+* No one component of the project shall be worth more than one-third of the final course grade. 
+
 
 ## User guide
 Check the Markdown file associated with the class date of interest for relevant instructions and learning resources.
