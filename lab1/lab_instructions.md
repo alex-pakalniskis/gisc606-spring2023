@@ -1,8 +1,10 @@
 # Lab 1 Instructions
+60 points total for Lab 1
+
 Due before March 25, 2023 at 11:00 am
 
 ## Part 1: Use [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) to assess burn scars with satellite imagery 
-40 points
+45 points total for Part 1
 
 > Note: This tutorial was originally developed by Esri's Learn Team. You can find the official maintained version at [this location](https://learn.arcgis.com/en/projects/assess-burn-scars-with-satellite-imagery/). Additionally you can find other tutorials in the [tutorial gallery](https://learn.arcgis.com/en/gallery/).
 
@@ -11,8 +13,21 @@ Due before March 25, 2023 at 11:00 am
 * Calculate the burn index
 * Share your results
 
+#### Compare band combinations
+1. Download the [Montana Fires Project Package](https://www.arcgis.com/sharing/rest/content/items/1bc2bc1305b447fa939b937a8867114f/data). 
+2. Unzip the downloaded file (`Montana_Fires.ppkx`) then navigate to `Montana_Fires/commondata/raster_data/`
+3. Open Google Colaboratory 
+4. Upload the imagery data into Colaboratory
+5. Install `rasterio`
+
+#### Calculate the burn index
+Coming soon
+
+#### Share your results
+Coming soon
+
 ## Part 2: Literature search
-20 points
+15 points total for Part 2
 
 Use https://scholar.google.com/ and find three peer-reviewed articles about an applied remote sensing topic of interest to you. Feel free to search for any topic of interest in the broader applied remote sensing umbrella. 
 
