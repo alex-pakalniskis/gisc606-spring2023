@@ -1,0 +1,21 @@
+{
+    "your_name": "Alex Pakalniskis",
+    "your_csulb_email": "alex.pakalniskis@csulb.edu",
+    "articles": [
+      {
+        "title": "Article 1",
+        "authors": "John Doe et al.",
+        "link": "some_url.com/articles/1"
+      },
+      {
+        "title": "Article 2",
+        "authors": "Jane Dae et al.",
+        "link": "some_url.com/articles/2"
+      },
+      {
+        "title": "Article 3",
+        "authors": "Juan Do et al.",
+        "link": "some_url.com/articles/3"
+      }
+    ]
+}
