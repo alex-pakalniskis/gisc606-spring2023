@@ -1,3 +1,8 @@
+## Part 1
+Coming soon
+
+## Part 2
+
 1. Login to your GitHub account if you aren't already logged in
 2. Navigate to the [`alex-pakalniskis/gisc606-spring2023` repository overview page](https://github.com/alex-pakalniskis/gisc606-spring2023)
 3. [Create a branch of `alex-pakalniskis/gisc606-spring2023` from `main` using the branch dropdown](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository#creating-a-branch-using-the-branch-dropdown)
