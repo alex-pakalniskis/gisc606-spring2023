@@ -41,7 +41,12 @@ Due before March 25, 2023 at 11:00 am
 
 
 ##### Enhance the imagery
-1. Install `rasterio`
+1. Install `rasterio` and check the version installed
+    ``` bash
+    !sudo apt-get install python-numpy gdal-bin libgdal-dev
+    !pip install rasterio
+    !rio --version
+    ```
 
 ##### View various band combinations
 
