@@ -5,17 +5,20 @@
       {
         "title": "Article 1",
         "authors": "John Doe et al.",
-        "link": "some_url.com/articles/1"
+        "link": "some_url.com/articles/1",
+        "your_summary": "In two to four sentences, paraphrase the content of the article (your own words)."
       },
       {
         "title": "Article 2",
         "authors": "Jane Dae et al.",
-        "link": "some_url.com/articles/2"
+        "link": "some_url.com/articles/2",
+        "your_summary": "In two to four sentences, paraphrase the content of the article (your own words)."
       },
       {
         "title": "Article 3",
         "authors": "Juan Do et al.",
-        "link": "some_url.com/articles/3"
+        "link": "some_url.com/articles/3",
+        "your_summary": "In two to four sentences, paraphrase the content of the article (your own words)."
       }
     ]
 }
