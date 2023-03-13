@@ -49,6 +49,10 @@ Due before March 25, 2023 at 11:00 am
     ```
 
 ##### View various band combinations
+1. Display information about the 2014 data
+    ``` bash
+    !rio info raster_data/G_2014.tif --indent 2 --verbose
+    ```
 
 ##### Create a custom band combination
 
