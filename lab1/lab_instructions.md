@@ -1,11 +1,18 @@
 # Lab 1 Instructions
-## Part 1 (40 points)
-### Remote sensing refresher
-Coming soon
+Due before March 25, 2023 at 11:00 am
 
-## Part 2 (20 points)
-### Literature search
-Due before March 25, 2023 11:00 am
+## Part 1: Use [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) to assess burn scars with satellite imagery 
+40 points
+
+> Note: This tutorial was originally developed by Esri's Learn Team. You can find the official maintained version at [this location](https://learn.arcgis.com/en/projects/assess-burn-scars-with-satellite-imagery/). Additionally you can find other tutorials in the [tutorial gallery](https://learn.arcgis.com/en/gallery/).
+
+#### Overview
+* Compare band combinations
+* Calculate the burn index
+* Share your results
+
+## Part 2: Literature search
+20 points
 
 Use https://scholar.google.com/ and find three peer-reviewed articles about an applied remote sensing topic of interest to you. Feel free to search for any topic of interest in the broader applied remote sensing umbrella. 
 
