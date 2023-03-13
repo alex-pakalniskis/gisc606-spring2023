@@ -1,4 +1,4 @@
-## Lab 1
+# Lab 1
 ## Part 1 (40 points)
 Coming soon
 
