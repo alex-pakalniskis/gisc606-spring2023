@@ -14,17 +14,25 @@ Due before March 25, 2023 at 11:00 am
 * Share your results
 
 #### Compare band combinations
-1. Download the [Montana Fires Project Package](https://www.arcgis.com/sharing/rest/content/items/1bc2bc1305b447fa939b937a8867114f/data). 
-2. Unzip the downloaded file (`Montana_Fires.ppkx`) then navigate to `Montana_Fires/commondata/raster_data/`
-3. Open Google Colaboratory 
-4. Upload the imagery data into Colaboratory
-5. Install `rasterio`
+##### Download the data
+1. Open Google Colaboratory 
+2. Download the [Montana Fires Project Package](https://www.arcgis.com/sharing/rest/content/items/1bc2bc1305b447fa939b937a8867114f/data) into Google Colaboratory
+3. Unzip the downloaded file (`Montana_Fires.ppkx`) then run the command to list files in `Montana_Fires/commondata/raster_data/`
+
+##### Enhance the imagery
+1. Install `rasterio`
+
+##### View various band combinations
+
+##### Create a custom band combination
 
 #### Calculate the burn index
-Coming soon
+##### Calculate the Normalized Burn Ratio
+
+##### Determine change in NBR
 
 #### Share your results
-Coming soon
+##### Upload results to GitHub
 
 ## Part 2: Literature search
 15 points total for Part 2
