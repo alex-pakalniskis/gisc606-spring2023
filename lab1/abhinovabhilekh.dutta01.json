@@ -1,0 +1,31 @@
+{
+    "your_name": "Abhinov Abhilekh Dutta",
+    "your_csulb_email": "abhinovabhilekh.dutta01@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "When it comes to detecting and mapping forest fires, remote sensing methods are unparalleled.\
+        The paper utilized Landsat 5 (TM) data to analyze forest-fire events in Valencia (Spain) and track the recovery of vegetation in these regions.\
+        The degree of the fire's effect on the surrounding forest was measured in comparison to a reference region that had not been affected by the fire.\
+        The best parameters for mapping fire damage were the thermal band radiance and the normalized difference in reflectance between the near IR  and middle IR.\
+        The index also helped in tracking vegetation regrowth after fires.\
+        After a month of burn, the burnt areas had 5 to 6 degrees Celsius higher than those in the reference region, and the vegetation index has negative values where it was positive before the blaze.\
+        However, with time, as vegetation grows, the differences between the burnt and the unburnt areas diminishes."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "The primary goal of a Landscape Assessment is to detect and quantify the impacts of fire over wide regions, sometimes including many burns.\
+         The approach concentrated on comparing outcomes and collecting data over large geographic areas and time periods.\
+         The results demonstrated the regional variability of burns and the dynamic relationship between fire, vegetation, and terrain.\
+         The 'burnt index', defined as a scaled index to measure the extent of ecological damages brought by fire, was mapped and quantified in the study.\
+         The methodology comprised of two combined approaches.\
+         The former included burnt remote sensing and deriving the normalized burn ratio (NBR) at two different time frames using Landsat imagery.\
+         The latter included vegetation rehabilitation potential and delay in its mortality.\
+         Also, a supplementary field sampling method, the Composite Burn Index (CBI), was introduced which demonstrated multple advantages and benefits."
+      }
+    ]
+}
