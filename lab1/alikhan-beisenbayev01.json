@@ -1,0 +1,18 @@
+{
+    "your_name": "Alikhan Beisenbayev",
+    "your_csulb_email": "alikhan.beisenbayev01@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "The article discusses the use of Thematic Mapper (TM) for mapping burns and assessing reforestation after wildfires. The first part of discussion was about a new index that would help to map burns; after analyzing spectral signatures and using the spatial statistics methods authors were able to figure out the formula for burn ratio index that uses band 4 and 7. Also they studied a new thermal band to understand if it is applicable to use it for mapping burn areas. Studies showed that burn areas were 5-6 C higher than reference. However, for monitoring reforestation, using thermal band is not suitable as its values decrease very fast because of reappearing vegetation, so, burn ratio index is more suitable for this kind of monitoring."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "The article discusses two distinct techniques for judging the extent of burns in wildfire-damaged landscapes. The Composite Burn Index (CBI), a ground-based measurement, is the first technique and accounts for the level of burn, the amount of consumption, and the death of trees and plants. The Normalized Burn Ratio (NBR), a remote sensing technology that makes use of satellite data to gauge the severity of burns, is the second approach. The authors contrast the two approaches and come to the conclusion that they work well together to provide a more thorough evaluation of burn severity. They also go over the benefits and drawbacks of each technique, arguing that for precise landscape assessments, a mix of ground-based and remote sensing methods is required."
+      }
+    ]
+}
