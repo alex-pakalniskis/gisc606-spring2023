@@ -6,7 +6,7 @@
         "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
         "authors": "Lopez Garcia, M., and V. Caselles",
         "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
-        "your_summary": ""
+        "your_summary": "The article discusses the use of Thematic Mapper (TM) for mapping burns and assessing reforestation after wildfires. The first part of discussion was about a new index that would help to map burns; after analyzing spectral signatures and using the spatial statistics methods authors were able to figure out the formula for burn ratio index that uses band 4 and 7. Also they studied a new thermal band to understand if it is applicable to use it for mapping burn areas. Studies showed that burn areas were 5-6 C higher than reference. However, for monitoring reforestation, using thermal band is not suitable as its values decrease very fast because of reappearing vegetation, so, burn ratio index is more suitable for this kind of monitoring."
       },
       {
         "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
