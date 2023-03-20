@@ -1,0 +1,22 @@
+"""
+json
+"""
+{
+    "your_name": "Jason Haller",
+    "your_csulb_email": "jason.haller@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "LandSat has greatly enhanced the field of remote sensing and the ability to map burn areas. The study in this article was performed in Valencia, Spain. Bands 4, 5, and 7 showed the greatest differences between images before and after the fires. "
+ 
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "This paper covers landscape assessment in the context of large fires and how managers can use cheap tools to monitor and analyze them. LandSat is important in this work because of its 30 m resolution and almost complete coverage of the Earth. The author walks the reader through various types of assessment and how to perform them."
+      }
+    ]
+}
