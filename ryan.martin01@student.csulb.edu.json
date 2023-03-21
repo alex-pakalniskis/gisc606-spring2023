@@ -1,0 +1,26 @@
+{
+    "your_name": "Ryan Martin",
+    "your_csulb_email": "ryan.martin01@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "This paper discusses using the satellite Landsat 5 and it's thematic mapper sensor contained onboard. During the late
+        1970s and early 1980s, a series of fires burned near Valencia, Spain and charred the landscape of the area. Using the spectral 
+        signatures obtained by the thematic mapper and by using a pre-fire control group, we can compare the signatures
+        of the areas after being burned to determine the extent of the damage. The control group is of vital importance
+        in order to minimize atmospheric interference and other possible sources of error. 
+        We can also use this imagery to track the progress of regrowth 
+        in burned areas as well. "
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "This paper discusses Landscape Assessment in terms of burn assessment over long periods of time over large areas of land, as
+        opposed to the previous paper which was focused on one relatively small area of Earth. There are two main methodologies discussed: 
+        BR and NBR. BR uses Landsat imagery at 30m resolution, while NBR is done radiometrically. Landsat imagery is great for this type of
+        assessment because of its high resolution and near complete coverage of Earth. The author then proceeds to walk through various
+        types of assessments that can be performed and the criteria that are best for each one.]
+}
