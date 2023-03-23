@@ -1,0 +1,18 @@
+{
+    "your_name": "Holden Ford",
+    "your_csulb_email": "holden.ford@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "They were looking for what thermal bands from Landsat were the best for mapping forest fires. They made a vegetation and temperature index of all of the burn areas. They decided using the bands 4 and 7 were best. They concluded the formula 4-7/4+7 was the best way to map forest fires."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "The authors monitored fires wildfires around Glacier National Park in 1994. They discovered a way to monitor large and inaccessible fires through remote sensing. This could also be used on small fires, though not cost-effective. They concluded, same as the other authors, that the Normalized Burn ratio formula was best for monitoring fires."
+      }
+    ]
+}
