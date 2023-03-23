@@ -1,0 +1,18 @@
+{
+    "your_name": "Megan Daniels",
+    "your_csulb_email": "megan.daniels02@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "Satellite data was used to create a map of the forest, showing areas that have been burned as well as areas that have undergone natural reforestation. It was found that the technique was effective in identifying burns and regrowth areas and could be useful for managing forest resources. It’s also noted that remote sensing data can provide valuable information for forest management and conservation and can be done relatively cheaply. The study shows the potential of remote sensing techniques for monitoring and managing forest ecosystems."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "Two different methods for assessing the severity of burns in a forest landscape were assessed: ground measurements using the Composite Burn Index (CBI) and remote sensing using the Normalized Burn Ratio (NBR). It was found that the CBI was more accurate than the NBR in terms of identifying areas of high burn severity, but the NBR was better at detecting the extent of the burn and the location of the fire boundary. It was concluded that a combination of the two approaches may provide the most complete assessment of burn severity. It is important to have accurate burn severity assessments for predicting post-fire ecological recovery and for guiding management decisions, and remote sensing techniques will be vital for assessing burn severity due to their ability to cover large areas quickly and cost-effectively."
+      }
+    ]
+}
