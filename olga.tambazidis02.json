@@ -1,0 +1,19 @@
+
+{
+    "your_name": "Olga Tambazidis",
+    "your_csulb_email": "olga.tambazidis02@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "This research paper was looking to explore the possibilities of the Thematic Mapper sensor for forest fires and create a longt-term workflow from the results. Valencia, Spain was chosen as a test model as it has has forest fires on three different dates. Mathetatical expressions where developed and used on the results from mapping three different areas and a reference area to reduce the sensor and sun angle depednece.The researchers concluded that TM data can be used to accurately map forest fires and natural reforestation, and that their method can be useful for monitoring and managing forest ecosystems after fires."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "This research paper is attempting to create a formula that would identify different burn severities that affect a lanscape after a fire. The higher the burn severity, the more likely that even fire-adapted species are severly impacted. The two methods tested and identified was CBI, ground-based method that assesses the severity of a wildfire by measuring the damage to the forest floor and the amount of vegetation affected and NBI, a remote sensing method that uses satellite imagery to assess the severity of a wildfire by measuring changes in the vegetation index. The conclusion was that there are strengths and weaknesses to each method but combining them would provide a comprehensive assessment of fire severity. "
+      }
+    ]
+}
