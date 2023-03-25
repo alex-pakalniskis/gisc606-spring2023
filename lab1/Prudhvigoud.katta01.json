@@ -1,0 +1,18 @@
+{
+    "your_name": "Prudhvi Goud Katta",
+    "your_csulb_email": "Prudhvigoud.katta01@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "The authors demostrated the usefulness of using Thematic Mapper Data in order to minimize the influence of scene-dependent factors (atmospheric, ra-diometric, viewing and topographical effects). This is very interesting in multitemporal studies, such as vegetation monitoring, because time computer can be considerablely reduced."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "The article titled Landscape Assessment: Ground measure of severity, the Composite Burn Index and Remote sensing of severity, the Normalized Burn Ratio discusses the assessment of severity of forest fires using both ground-based measurements and remote sensing techniques. The authors focus on two measures of severity, the Composite Burn Index (CBI) and the Normalized Burn Ratio (NBR)."
+      }
+    ]
+}
