@@ -12,7 +12,7 @@
         "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
         "authors": "Key, C. and N. Benson, N",
         "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
-        "your_summary": "In two to four sentences, paraphrase the content of the article (your own words)."
+        "your_summary": "In the research article Landscape Assessment by Key C.H & Bensom N.C (2016),,  focus on the need to address landscape assessment over larger areas. They used remotes sensing techniques  to design applicable methods designed  to study large areas that have been affected by fires.  Their research integrates two  methodologies; the Normalized Burn Ratio acquired from pre- and postfire datasets and the used of  Burn Remote Sensing (BR)  determined from 30-meter data acquired from Landsat.  The normalized burn ratio (NBR) is another vegetation index that allows you to visualize burned areas to understand fire severity. NBR = (NIR-SWIR)/(NIR + SWIR) NBR to understand wildfire, you can perform the calculation on a remotely sensed image taken before to the fire and on another after, then calculate the difference between the two. This difference image is called a dNBR. Using these datatypes from two timeframes Key C.H & Bensom N.C (2016) determine wildfire change detection effects over large areas. "
       }
     ]
 }
