@@ -1,5 +1,5 @@
-```json
 {
+    ```json
     "your_name": "Alex Pakalniskis",
     "your_csulb_email": "alex.pakalniskis@csulb.edu",
     "articles": [
@@ -16,5 +16,6 @@
         "your_summary": "This article is setting the standard for remote sensing methodology of fire and burn mapping. It clearly defines the terminology and procedures commonly used and also provides the process to properly document a burn in the field. After establishing the groundwork it goes into further detail on how to calculate CBI and process NBR. The paper then goes over extensively how to interpret these results.."
       }
     ]
+    ```
 }
-```
+
