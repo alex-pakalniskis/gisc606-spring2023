@@ -1,0 +1,22 @@
+```json
+{
+    
+    "your_name": "Anja Oca",
+    "your_csulb_email": "anja.oca02@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "This paper went into the techniques used to map forest fires and how to create the most effective procedure when doing so. Multidate images were first used to distinguish between forest fires and other factors. An analysis of bands was then used to determine differences in vegetation index and temperatures. Overall it was found that thermal band and index 4-7/4+7 are the best to evaluate areas affected by forest fire."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "This article is setting the standard for remote sensing methodology of fire and burn mapping. It clearly defines the terminology and procedures commonly used and also provides the process to properly document a burn in the field. After establishing the groundwork it goes into further detail on how to calculate CBI and process NBR. The paper then goes over extensively how to interpret these results."
+      }
+    ]
+}
+
+```
