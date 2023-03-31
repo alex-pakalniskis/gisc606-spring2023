@@ -1,0 +1,28 @@
+```json
+{
+    
+    "your_name": "Anja Oca",
+    "your_csulb_email": "anja.oca02@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Using the satellite-derived NDVI to assess ecological responses to environmental change",
+        "authors": "Nathalie Pettorelli1 et al.",
+        "link": "http://www.arctic-predators.uit.no/biblio_IPYappl/PettorelliTREE05%20ecological%20responses%20NDVI.pdf",
+        "your_summary": "The Normalized Difference Vegetation Index (NDVI) can be extremely useful for studying the impacts of vegetation on animal populations. Some of the wags that the NDVI does that is by tracking change sun vegetation, studying trophic inter-linkages, and using NDVI time series to derive ecologically relevant measures. With these uses the NDVI will continue to be a valuable asset for terrestrial ecologists."
+      },
+      {
+        "title": "EarthPy: A Python package that makes it easier to explore and plot raster and vector data using open source Python tools.",
+        "authors": "Leah Wassser et al.",
+        "link": "https://joss.theoj.org/papers/10.21105/joss.01886.pdf",
+        "your_summary": "EarthPy is a python package that was created to make it easier for the user to perform spatial data exploration tasks. It streamlines the process by using modules for common geospatial data operations. It is open-source and it’s encouraged to be used by both scientists and students alike."
+      },
+      {
+        "title": "Bibliometric Analysis of Global NDVI Research Trends from 1985 to 2021.",
+        "authors": "Yang Xu et al.",
+        "link": "https://www.mdpi.com/2072-4292/14/16/3967",
+        "your_summary": "There have not been any comprehensive reviews of NDVI which is why this paper is using bibliometrics to analyze NDVI research. Bibliometrics allows for one to see global trends of NVDI literature, what can be derived from this trends, and future trends. For this bibliometric study over 17,000 studies were looked at. Overall jr was found that there is a positive trend in the growth of NDVI research, but there still needs to be more exploration done in the future."
+      }   
+   ]
+}
+
+```
