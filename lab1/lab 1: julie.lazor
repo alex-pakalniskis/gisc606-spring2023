@@ -1,0 +1,23 @@
+{
+    "your_name": "Julie Lazor",
+    "your_csulb_email": "julie.lazor@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "Landsat 5 Thematic Mapper was used to study and map an area that experienced extensive forest fires in Valencia, Spain. Remote sensing has been very useful
+        in mapping ecological changes, such as forest fires since it can allow you to track temporal changes and see how much damage is caused by certain natural disasters. In
+        order to assess the change and damages from the fire, a baseline of non-burnt forest area was also mapped and established. Post-fire, the burt area was 5-6 degrees warmer
+        than the non-burnt area and had a negative vegetation index which was in direct contrast to the non-burnt area."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "Landscape Assessment is an analysis method which analyzes and quantifies the effects of forest fires that span over large and multiple areas.
+        In order to effectively measure "burn severity", the two analysis methodologies are used in conjuction are Burn Remote SEnsing which uses Landsat data and
+        Normalized Burn Ratio which is the derived radiometric value."
+      }
+    ]
+}
