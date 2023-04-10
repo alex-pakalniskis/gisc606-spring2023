@@ -1,0 +1,18 @@
+{
+    "your_name": "Devyn Yuhashi",
+    "your_csulb_email": "devyn.yuhashi@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "The article focuses on how remote sensing can be utilized to study areas that have been affected by forest fires. Specifically, the articles centers around an area in Spain, where forest fires have become a prominent issue over the past couple of summers. Overall, the article strives to gain a better understanding on how remote sensing can be used to study vegetationregeneration in burnt areas, concluding that thermal band and index 4-7/4+7 are the best parameters when evaluating. "
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "The article explores how Burn Remote Sensing (BR) and Normalized Burn Ration (NBR) can be utilized to gain a better understanding how how fire interacts with vegetation over large areas. The article provides ample resources such as definitions, charts, and nother important methologies when it comes to understandning how to use remote sensing as a way to analyze aggregated data on fire spread."
+      }
+    ]
+}
