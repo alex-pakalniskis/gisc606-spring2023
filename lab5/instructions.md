@@ -1,6 +1,34 @@
 # Lab 5
 ## Review Computer Vision in Remote Sensing literature
-todo
+Please read and synthesize 3-4 sources about a Computer Vision in Remote Sensing topic of your choice.
+
+Here are some example topics:
+* Crop yield estimation and prediction
+* Urban land cover classification and mapping
+* Forest health monitoring and analysis
+* Soil moisture mapping and analysis
+* Glacier and snow cover mapping and monitoring
+* Water quality and sediment transport monitoring
+* Mineral exploration and identification
+* Wildlife population monitoring and analysis
+* Coastal erosion and shoreline change detection
+* Land-use and land-cover change detection
+* Air pollution monitoring and analysis
+* Disaster response and damage assessment
+* Solar energy potential estimation
+* Archaeological site mapping and analysis
+* Infrastructure asset management and monitoring
+* Vegetation phenology monitoring and analysis
+* Wetland mapping and classification
+* Marine ecosystem monitoring and analysis
+* Climate change impact assessment
+* Mapping and monitoring of invasive species distribution and spread
+
+You can also use the lecture slides as inspiration, but don't hesitate to reach out to your instructor or fellow classmates for advice. 
+
+Please use a tool like Google Scholar, Google Search, https://paperswithcode.com/, and social media to locate sources. Feel free to include a mix of peer-reviewed articles, blog posts, popular science articles, and other media sources, but please don't select all from one type. Likewise, please make sure to cite sources as appropriate and to include all references at the bottom of your response. You can follow any citation syntax you prefer (MLA, APA, Chicago, Harvard, Vancouver, etc.). 
+
+I encourage you to add non-text content like images, GIFs, and videos to your response as they can help paint a more vivid picture/tell compeling stories. There aren't any restrictions on response structure (i.e. word length, specific headings, etc.) so feel free to organize your response as you see fit.
 
 ## Create a GitHub Pages website about your research
 1. Create a new GitHub repository using [this one](https://github.com/alex-pakalniskis/lab5_template) as a template 
