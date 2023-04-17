@@ -89,9 +89,9 @@ Include any supplementary materials such as maps, graphs, or tables that were no
 ## Deliverable
 A [GitHub Pages](https://pages.github.com/) website with your project content
 
-Please host the page using the repository you created during Lab 0
+Please host the page using the repository you created during Lab 0. Reach out to your instructor and/or classmates if you need assistance.
 
-Use Markdown to format your content for pretty rendering (but feel free to use a word editor like Word, Docs, etc then add Markdown syntax where necessary). You can use this document as a template for content with headings, links, and images (change the url file ending to `.html`)
+Use Markdown to format your content for pretty rendering (but feel free to use a word editor like Word, Docs, etc then add Markdown syntax where necessary). You can use this document as a template for content with headings, links, and images (change the url file ending from `.html` to `.md`)
 
 
 
