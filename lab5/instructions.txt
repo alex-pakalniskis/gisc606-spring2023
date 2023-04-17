@@ -46,3 +46,7 @@ I encourage you to add non-text content like images, GIFs, and videos to your re
 1. Under **Website**, select the **Use your GitHub Pages website** option
 1. Click **Save Changes**
 1. Click the **pencil icon** for **README.md** to start editing the file and adding your contents
+    1. I recommend drafting your response in a text editor like Word or Docs, then copy pasting to GitHub and adding Markdown syntax as necessary.
+1. Once you're done adding your content, click **Commit changes**
+1. Click the **Code** pane to return to the main Repository view
+1. Wait a minute or two, then click the link to your GitHub Pages website near the **About** section
