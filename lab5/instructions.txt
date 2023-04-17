@@ -1,8 +1,8 @@
 # Lab 5
 ## Review Computer Vision in Remote Sensing literature
-Please read and synthesize 3-4 sources about a Computer Vision in Remote Sensing topic of your choice.
+Please read and synthesize 3-4 sources about a Computer Vision topic as it applies to a Remote Sensing application of your choice.
 
-Here are some example topics:
+Here are some example lab 5 remote sensing applications you can choose from:
 * Crop yield estimation and prediction
 * Urban land cover classification and mapping
 * Forest health monitoring and analysis
@@ -24,7 +24,7 @@ Here are some example topics:
 * Climate change impact assessment
 * Mapping and monitoring of invasive species distribution and spread
 
-You can also use the lecture slides as inspiration, but don't hesitate to reach out to your instructor or fellow classmates for advice. 
+Please use the lecture slides as inspiration for computer vision topics, i.e. segmentation, object-detection, neural networks, etc., but don't hesitate to reach out to your instructor or fellow classmates for advice. 
 
 Please use a tool like Google Scholar, Google Search, https://paperswithcode.com/, and social media to locate sources. Feel free to include a mix of peer-reviewed articles, blog posts, popular science articles, and other media sources, but please don't select all from one type. Likewise, please make sure to cite sources as appropriate and to include all references at the bottom of your response. You can follow any citation syntax you prefer (MLA, APA, Chicago, Harvard, Vancouver, etc.). 
 
